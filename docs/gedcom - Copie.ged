@@ -14878,8 +14878,8 @@
 0 @N0021@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
 1 CONC D O1000005:
 1 CONT 
-1 CONT Impossible d'importer photos\Wadad.jpeg       Lin
-1 CONC e 14612: 1 FILE photos\Wadad.jpeg
+1 CONT Impossible d'importer /photos/Wadad.jpeg       Lin
+1 CONC e 14612: 1 FILE /photos/Wadad.jpeg
 1 CONT 
 0 @N0022@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
 1 CONC D O1000007:
@@ -15058,56 +15058,56 @@
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0002@ OBJE
-1 FILE .\photos\louis isidore cressot.JPEG
+1 FILE /photos/louis isidore cressot.JPEG
 2 FORM JPEG
 2 TITL louis isidore cressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0003@ OBJE
-1 FILE photos\Wadad.jpeg
+1 FILE /photos/Wadad.jpeg
 2 FORM jpeg
 2 TITL Wadad
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0004@ OBJE
-1 FILE photos\Nicolas.jpeg
+1 FILE /photos/Nicolas.jpeg
 2 FORM jpeg
 2 TITL Nicolas
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0005@ OBJE
-1 FILE photos\Raphaelle.jpeg
+1 FILE /photos/Raphaelle.jpeg
 2 FORM jpeg
 2 TITL Raphaelle
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0006@ OBJE
-1 FILE photos\Geraldine.jpeg
+1 FILE /photos/Geraldine.jpeg
 2 FORM jpeg
 2 TITL Geraldine
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0007@ OBJE
-1 FILE photos\JeanFrancois.jpeg
+1 FILE /photos/JeanFrancois.jpeg
 2 FORM jpeg
 2 TITL JeanFrancois
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0008@ OBJE
-1 FILE photos\Beatrice.jpeg
+1 FILE /photos/Beatrice.jpeg
 2 FORM jpeg
 2 TITL Beatrice
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0009@ OBJE
-1 FILE photos\Damien.jpeg
+1 FILE /photos/Damien.jpeg
 2 FORM jpeg
 2 TITL Damien
 1 CHAN
@@ -15122,119 +15122,119 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0011@ OBJE
-1 FILE photos\Loic.jpeg
+1 FILE /photos/Loic.jpeg
 2 FORM jpeg
 2 TITL Loic
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0012@ OBJE
-1 FILE photos\Clovis.jpeg
+1 FILE /photos/Clovis.jpeg
 2 FORM jpeg
 2 TITL Clovis
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0013@ OBJE
-1 FILE photos\Aida.jpeg
+1 FILE /photos/Aida.jpeg
 2 FORM jpeg
 2 TITL Aida
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0014@ OBJE
-1 FILE photos\Guy.jpeg
+1 FILE /photos/Guy.jpeg
 2 FORM jpeg
 2 TITL Guy
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0015@ OBJE
-1 FILE photos\Roland.jpeg
+1 FILE /photos/Roland.jpeg
 2 FORM jpeg
 2 TITL Roland
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0016@ OBJE
-1 FILE photos\Thomas.jpeg
+1 FILE /photos/Thomas.jpeg
 2 FORM jpeg
 2 TITL Thomas
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0017@ OBJE
-1 FILE photos\MarieLine.jpeg
+1 FILE /photos/MarieLine.jpeg
 2 FORM jpeg
 2 TITL MarieLine
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0018@ OBJE
-1 FILE photos\Caroline.jpeg
+1 FILE /photos/Caroline.jpeg
 2 FORM jpeg
 2 TITL Caroline
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0019@ OBJE
-1 FILE photos\Sophie.jpeg
+1 FILE /photos/Sophie.jpeg
 2 FORM jpeg
 2 TITL Sophie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0020@ OBJE
-1 FILE photos\SandrinePhilibert.jpeg
+1 FILE /photos/SandrinePhilibert.jpeg
 2 FORM jpeg
 2 TITL SandrinePhilibert
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0021@ OBJE
-1 FILE photos\Yves.jpeg
+1 FILE /photos/Yves.jpeg
 2 FORM jpeg
 2 TITL Yves
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0022@ OBJE
-1 FILE photos\JeanPierre.jpeg
+1 FILE /photos/JeanPierre.jpeg
 2 FORM jpeg
 2 TITL JeanPierre
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0023@ OBJE
-1 FILE photos\Aurelien.jpeg
+1 FILE /photos/Aurelien.jpeg
 2 FORM jpeg
 2 TITL Aurelien
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0024@ OBJE
-1 FILE photos\Guillaume.jpeg
+1 FILE /photos/Guillaume.jpeg
 2 FORM jpeg
 2 TITL Guillaume
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0025@ OBJE
-1 FILE photos\Marine.jpeg
+1 FILE /photos/Marine.jpeg
 2 FORM jpeg
 2 TITL Marine
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0026@ OBJE
-1 FILE photos\JeanCressot.jpeg
+1 FILE /photos/JeanCressot.jpeg
 2 FORM jpeg
 2 TITL JeanCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0027@ OBJE
-1 FILE photos\Euphrosine.jpeg
+1 FILE /photos/Euphrosine.jpeg
 2 FORM jpeg
 2 TITL Euphrosine
 1 CHAN
@@ -15273,14 +15273,14 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0032@ OBJE
-1 FILE photos\Lucie.jpeg
+1 FILE /photos/Lucie.jpeg
 2 FORM jpeg
 2 TITL Lucie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0033@ OBJE
-1 FILE photos\Celesta.JPEG
+1 FILE /photos/Celesta.JPEG
 2 FORM JPEG
 2 TITL Celesta
 1 CHAN
@@ -15303,133 +15303,133 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0036@ OBJE
-1 FILE photos\BecharaSaade.JPEG
+1 FILE /photos/BecharaSaade.JPEG
 2 FORM JPEG
 2 TITL BecharaSaade
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0037@ OBJE
-1 FILE photos\Virginie.JPEG
+1 FILE /photos/Virginie.JPEG
 2 FORM JPEG
 2 TITL Virginie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0038@ OBJE
-1 FILE photos\JeanLagrange.JPG
+1 FILE /photos/JeanLagrange.JPG
 2 FORM JPG
 2 TITL JeanLagrange
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0039@ OBJE
-1 FILE photos\MoniqueLagrange.JPG
+1 FILE /photos/MoniqueLagrange.JPG
 2 FORM JPG
 2 TITL MoniqueLagrange
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0040@ OBJE
-1 FILE photos\JoyCressot.jpeg
+1 FILE /photos/JoyCressot.jpeg
 2 FORM jpeg
 2 TITL JoyCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0041@ OBJE
-1 FILE photos\EmmaMorkos.jpeg
+1 FILE /photos/EmmaMorkos.jpeg
 2 FORM jpeg
 2 TITL EmmaMorkos
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0042@ OBJE
-1 FILE photos\EricCressot.jpeg
+1 FILE /photos/EricCressot.jpeg
 2 FORM jpeg
 2 TITL EricCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0043@ OBJE
-1 FILE photos\VeroniqueBechara.jpeg
+1 FILE /photos/VeroniqueBechara.jpeg
 2 FORM jpeg
 2 TITL VeroniqueBechara
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0044@ OBJE
-1 FILE photos\Gabrielle.jpeg
+1 FILE /photos/Gabrielle.jpeg
 2 FORM jpeg
 2 TITL Gabrielle
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0045@ OBJE
-1 FILE photos\AnneMarie.jpeg
+1 FILE /photos/AnneMarie.jpeg
 2 FORM jpeg
 2 TITL AnneMarie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0046@ OBJE
-1 FILE photos\Stephanie.jpeg
+1 FILE /photos/Stephanie.jpeg
 2 FORM jpeg
 2 TITL Stephanie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0047@ OBJE
-1 FILE photos\JoCressot.jpeg
+1 FILE /photos/JoCressot.jpeg
 2 FORM jpeg
 2 TITL JoCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0048@ OBJE
-1 FILE photos\YolaCressot.jpeg
+1 FILE /photos/YolaCressot.jpeg
 2 FORM jpeg
 2 TITL YolaCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0049@ OBJE
-1 FILE photos\MurielCressot.jpeg
+1 FILE /photos/MurielCressot.jpeg
 2 FORM jpeg
 2 TITL MurielCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0050@ OBJE
-1 FILE photos\ClaudeCressot.jpeg
+1 FILE /photos/ClaudeCressot.jpeg
 2 FORM jpeg
 2 TITL ClaudeCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0051@ OBJE
-1 FILE photos\MoniqueChehade.jpeg
+1 FILE /photos/MoniqueChehade.jpeg
 2 FORM jpeg
 2 TITL MoniqueChehade
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0052@ OBJE
-1 FILE photos\PatriciaCressot.jpeg
+1 FILE /photos/PatriciaCressot.jpeg
 2 FORM jpeg
 2 TITL PatriciaCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0053@ OBJE
-1 FILE photos\Paul.jpeg
+1 FILE /photos/Paul.jpeg
 2 FORM jpeg
 2 TITL Paul
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0054@ OBJE
-1 FILE \Users\fors\Documents\Applis\ancestris_genealogie\Donnees\Photos\Maiette.jpeg
+1 FILE \Users\fors\Documents\Applis\ancestris_genealogie\Donnees\photos/Maiette.jpeg
 2 FORM jpeg
 2 TITL Maiette
 1 NOTE @N0019@
@@ -15437,35 +15437,35 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0055@ OBJE
-1 FILE photos\Olivia.jpeg
+1 FILE /photos/Olivia.jpeg
 2 FORM jpeg
 2 TITL Olivia
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0056@ OBJE
-1 FILE photos\Zoe CRESSOT.jpeg
+1 FILE /photos/Zoe CRESSOT.jpeg
 2 FORM jpeg
 2 TITL Zoe CRESSOT
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O1000001@ OBJE
-1 FILE photos\Alain.jpeg
+1 FILE /photos/Alain.jpeg
 2 FORM jpeg
 2 TITL C:/Users/Alain/Pictures/IMG_3088.jpeg
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O1000008@ OBJE
-1 FILE photos\Cecile.JPEG
+1 FILE /photos/Cecile.JPEG
 2 FORM JPEG
 2 TITL ./photos/Cecile.JPEG
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O1000010@ OBJE
-1 FILE photos\Veronique.JPEG
+1 FILE /photos/Veronique.JPEG
 2 FORM JPEG
 2 TITL ./photos/Veronique.JPEG
 1 CHAN
