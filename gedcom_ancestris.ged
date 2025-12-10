@@ -1,17 +1,23 @@
-0 HEAD
-1 SOUR Gramps
-2 VERS AIO64-6.0.0--1
-2 NAME Gramps
-1 DATE 9 DEC 2025
-2 TIME 19:09:10
-1 SUBM @SUBM@
-1 FILE C:\Users\fors\Documents\Courrier Paperasse\FamilleCRESSOT20251209.ged
-1 COPR Copyright (c) 2025 .
+﻿0 HEAD
 1 GEDC
 2 VERS 5.5.1
 2 FORM LINEAGE-LINKED
+1 SOUR ANCESTRIS
+2 VERS 13.0.13730
+2 NAME Ancestris
+2 CORP Ancestris Team
+3 ADDR https://www.ancestris.org
+1 DEST ANY
+1 DATE 10 DEC 2025
+2 TIME 09:00:21
+1 SUBM @SUBM@
+1 FILE gedcom_ancestris.ged
 1 CHAR UTF-8
 1 LANG French
+1 PLAC
+2 FORM Lieudit, Commune, Code_INSEE, Code_Postal, Département, Région, Pays
+1 NOTE Ce fichier a été modifié par le module d'import Gramps d'Ancestris 
+1 COPR Copyright (c) 2025 .
 0 @SUBM@ SUBM
 1 NAME
 0 @I0000@ INDI
@@ -91,7 +97,7 @@
 2 DATE 7 NOV 2022
 3 TIME 09:58:57
 0 @I0006@ INDI
-1 NAME Nehmé, Joseph /AROUANI/
+1 NAME Nehmé Joseph /AROUANI/
 2 TYPE birth
 2 GIVN Nehmé, Joseph
 2 SURN AROUANI
@@ -132,7 +138,7 @@
 1 SEX F
 1 BIRT
 2 DATE 22 MAY 2025
-2 PLAC Paris
+2 PLAC Paris, , , , , , 
 1 FAMC @F10100057@
 2 PEDI birth
 1 OBJE @O0055@
@@ -808,7 +814,7 @@
 2 DATE 9 NOV 2022
 3 TIME 17:12:53
 0 @I0067@ INDI
-1 NAME Rose, (Zetta) /JAZZAR/
+1 NAME Rose (Zetta) /JAZZAR/
 2 TYPE birth
 2 GIVN Rose, (Zetta)
 2 SURN JAZZAR
@@ -2430,7 +2436,7 @@
 2 DATE 8 NOV 2022
 3 TIME 19:41:18
 0 @I0204@ INDI
-1 NAME Elias, Fawzi /GHORAYEB/
+1 NAME Elias Fawzi /GHORAYEB/
 2 TYPE birth
 2 GIVN Elias, Fawzi
 2 SURN GHORAYEB
@@ -2760,7 +2766,7 @@
 2 DATE 8 NOV 2022
 3 TIME 21:34:18
 0 @I0235@ INDI
-1 NAME Marie, Noelle /TOHME/
+1 NAME Marie Noelle /TOHME/
 2 TYPE birth
 2 GIVN Marie, Noelle
 2 SURN TOHME
@@ -2944,7 +2950,7 @@
 2 DATE 8 NOV 2022
 3 TIME 21:39:34
 0 @I0252@ INDI
-1 NAME Jean, Pierre /MAGAR/
+1 NAME Jean Pierre /MAGAR/
 2 TYPE birth
 2 GIVN Jean, Pierre
 2 SURN MAGAR
@@ -2988,7 +2994,7 @@
 2 DATE 9 NOV 2022
 3 TIME 20:24:58
 0 @I0256@ INDI
-1 NAME Antoinette, (Dede) /JAZZAR/
+1 NAME Antoinette (Dede) /JAZZAR/
 2 TYPE birth
 2 GIVN Antoinette, (Dede)
 2 SURN JAZZAR
@@ -3115,7 +3121,7 @@
 2 DATE 9 NOV 2022
 3 TIME 18:08:45
 0 @I0267@ INDI
-1 NAME Georgette, (Geogi) /JAZZAR/
+1 NAME Georgette (Geogi) /JAZZAR/
 2 TYPE birth
 2 GIVN Georgette, (Geogi)
 2 SURN JAZZAR
@@ -3127,7 +3133,7 @@
 2 DATE 9 NOV 2022
 3 TIME 18:00:00
 0 @I0268@ INDI
-1 NAME Colette, (Coco) /JAZZAR/
+1 NAME Colette (Coco) /JAZZAR/
 2 TYPE birth
 2 GIVN Colette, (Coco)
 2 SURN JAZZAR
@@ -3253,7 +3259,7 @@
 2 DATE 9 NOV 2022
 3 TIME 20:14:39
 0 @I0279@ INDI
-1 NAME Maria, Pia /LIVADIOTTI/
+1 NAME Maria Pia /LIVADIOTTI/
 2 TYPE birth
 2 GIVN Maria, Pia
 2 SURN LIVADIOTTI
@@ -3265,7 +3271,7 @@
 2 DATE 9 NOV 2022
 3 TIME 20:15:48
 0 @I0280@ INDI
-1 NAME Bianca, Maria /LIVADIOTTI/
+1 NAME Bianca Maria /LIVADIOTTI/
 2 TYPE birth
 2 GIVN Bianca, Maria
 2 SURN LIVADIOTTI
@@ -3319,7 +3325,7 @@
 2 DATE 9 NOV 2022
 3 TIME 17:24:46
 0 @I0285@ INDI
-1 NAME Maroun /ACOURI/
+1 NAME Prêtre Maroun /ACOURI/
 2 TYPE birth
 2 GIVN Maroun
 2 SURN ACOURI
@@ -3682,7 +3688,7 @@
 2 DATE 9 NOV 2022
 3 TIME 17:59:02
 0 @I0318@ INDI
-1 NAME Emilie, Rose /NEHME/
+1 NAME Emilie Rose /NEHME/
 2 TYPE birth
 2 GIVN Emilie, Rose
 2 SURN NEHME
@@ -3760,7 +3766,7 @@
 2 DATE 9 NOV 2022
 3 TIME 18:01:45
 0 @I0325@ INDI
-1 NAME Aya, Maria /BOULOS/
+1 NAME Aya Maria /BOULOS/
 2 TYPE birth
 2 GIVN Aya, Maria
 2 SURN BOULOS
@@ -4292,7 +4298,7 @@
 2 DATE 9 NOV 2022
 3 TIME 18:15:52
 0 @I0374@ INDI
-1 NAME Anne, Marie /JAZZAR/
+1 NAME Anne Marie /JAZZAR/
 2 TYPE birth
 2 GIVN Anne, Marie
 2 SURN JAZZAR
@@ -5355,7 +5361,7 @@
 2 DATE 9 NOV 2022
 3 TIME 20:12:38
 0 @I0471@ INDI
-1 NAME Maria, Pia /CHALLITA/
+1 NAME Maria Pia /CHALLITA/
 2 TYPE birth
 2 GIVN Maria, Pia
 2 SURN CHALLITA
@@ -5521,7 +5527,7 @@
 2 DATE 9 NOV 2022
 3 TIME 20:16:35
 0 @I0486@ INDI
-1 NAME Jean, Pierre /COMATI/
+1 NAME Jean Pierre /COMATI/
 2 TYPE birth
 2 GIVN Jean, Pierre
 2 SURN COMATI
@@ -6236,7 +6242,7 @@
 2 DATE 9 NOV 2022
 3 TIME 21:20:35
 0 @I0552@ INDI
-1 NAME Marie, Jo /SFEIR/
+1 NAME Marie Jo /SFEIR/
 2 TYPE birth
 2 GIVN Marie, Jo
 2 SURN SFEIR
@@ -6454,7 +6460,7 @@
 2 DATE 29 JUL 2025
 3 TIME 15:54:58
 0 @I0572@ INDI
-1 NAME Fabien //
+1 NAME Fabien
 2 TYPE birth
 2 GIVN Fabien
 1 SEX M
@@ -6463,7 +6469,7 @@
 2 DATE 29 JUL 2025
 3 TIME 19:05:02
 0 @I0573@ INDI
-1 NAME Zoe //
+1 NAME Zoe
 2 TYPE birth
 2 GIVN Zoe
 1 SEX F
@@ -6609,7 +6615,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000012@ INDI
-1 NAME Françoi, Auguste /BOBAND/
+1 NAME Françoi Auguste /BOBAND/
 2 TYPE birth
 2 GIVN Françoi, Auguste
 2 SURN BOBAND
@@ -6648,7 +6654,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000015@ INDI
-1 NAME Elisabelle, Madelein /DIGONET/
+1 NAME Elisabelle Madelein /DIGONET/
 2 TYPE birth
 2 GIVN Elisabelle, Madelein
 2 SURN DIGONET
@@ -6664,7 +6670,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000016@ INDI
-1 NAME Madeleine, Désirée /POINTOT/
+1 NAME Madeleine Désirée /POINTOT/
 2 TYPE birth
 2 GIVN Madeleine, Désirée
 2 SURN POINTOT
@@ -6678,7 +6684,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000017@ INDI
-1 NAME Nicolas, André /DIGONET/
+1 NAME Nicolas André /DIGONET/
 2 TYPE birth
 2 GIVN Nicolas, André
 2 SURN DIGONET
@@ -6708,7 +6714,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000019@ INDI
-1 NAME Chloé, Béatrice, Magu /CHOMIS/
+1 NAME Chloé Béatrice Magu /CHOMIS/
 2 TYPE birth
 2 GIVN Chloé, Béatrice, Magu
 2 SURN CHOMIS
@@ -6736,7 +6742,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000022@ INDI
-1 NAME Jean, André /DIGONET/
+1 NAME Jean André /DIGONET/
 2 TYPE birth
 2 GIVN Jean, André
 2 SURN DIGONET
@@ -6765,7 +6771,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000024@ INDI
-1 NAME André, Julien /DERVIEUX/
+1 NAME André Julien /DERVIEUX/
 2 TYPE birth
 2 GIVN André, Julien
 2 SURN DERVIEUX
@@ -6779,7 +6785,7 @@
 2 DATE 10 NOV 2022
 3 TIME 08:37:04
 0 @I1000025@ INDI
-1 NAME Guillaume, Daniel /DIGONET/
+1 NAME Guillaume Daniel /DIGONET/
 2 TYPE birth
 2 GIVN Guillaume, Daniel
 2 SURN DIGONET
@@ -6902,7 +6908,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000035@ INDI
-1 NAME Armand, Jean /AUGER/
+1 NAME Armand Jean /AUGER/
 2 TYPE birth
 2 GIVN Armand, Jean
 2 SURN AUGER
@@ -6914,7 +6920,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000036@ INDI
-1 NAME Marie, Pauline /DHAINAUT/
+1 NAME Marie Pauline /DHAINAUT/
 2 TYPE birth
 2 GIVN Marie, Pauline
 2 SURN DHAINAUT
@@ -7096,7 +7102,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000055@ INDI
-1 NAME Marie, Anne /CHALULEAU/
+1 NAME Marie Anne /CHALULEAU/
 2 TYPE birth
 2 GIVN Marie, Anne
 2 SURN CHALULEAU
@@ -7217,7 +7223,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000065@ INDI
-1 NAME Albertine, Clotilde /ALLARD/
+1 NAME Albertine Clotilde /ALLARD/
 2 TYPE birth
 2 GIVN Albertine, Clotilde
 2 SURN ALLARD
@@ -7230,7 +7236,7 @@
 2 DATE 10 NOV 2022
 3 TIME 08:37:11
 0 @I1000066@ INDI
-1 NAME François, Louis, Mari /SUBRA/
+1 NAME François Louis Mari /SUBRA/
 2 TYPE birth
 2 GIVN François, Louis, Mari
 2 SURN SUBRA
@@ -7297,7 +7303,7 @@
 2 DATE 10 NOV 2022
 3 TIME 07:27:07
 0 @I1000071@ INDI
-1 NAME Bernard, Yves, Luc /LAGRANGE/
+1 NAME Bernard Yves Luc /LAGRANGE/
 2 TYPE birth
 2 GIVN Bernard, Yves, Luc
 2 SURN LAGRANGE
@@ -7311,7 +7317,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000072@ INDI
-1 NAME Yohan, Jean, André /OUICE/
+1 NAME Yohan Jean André /OUICE/
 2 TYPE birth
 2 GIVN Yohan, Jean, André
 2 SURN OUICE
@@ -7506,7 +7512,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000089@ INDI
-1 NAME Jean-Michel, Louis /DHAINAUT/
+1 NAME Jean-Michel Louis /DHAINAUT/
 2 TYPE birth
 2 GIVN Jean-Michel, Louis
 2 SURN DHAINAUT
@@ -7532,7 +7538,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000091@ INDI
-1 NAME Andrée, Françoise, El /DHAINAUT/
+1 NAME Andrée Françoise El /DHAINAUT/
 2 TYPE birth
 2 GIVN Andrée, Françoise, El
 2 SURN DHAINAUT
@@ -7560,7 +7566,7 @@
 2 DATE 10 NOV 2022
 3 TIME 15:36:27
 0 @I1000094@ INDI
-1 NAME Marc, Jean, Marcel /CHOMIS/
+1 NAME Marc Jean Marcel /CHOMIS/
 2 TYPE birth
 2 GIVN Marc, Jean, Marcel
 2 SURN CHOMIS
@@ -7573,7 +7579,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000095@ INDI
-1 NAME Marion, Nicole, Moniq /CHOMIS/
+1 NAME Marion Nicole Moniq /CHOMIS/
 2 TYPE birth
 2 GIVN Marion, Nicole, Moniq
 2 SURN CHOMIS
@@ -7586,7 +7592,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000096@ INDI
-1 NAME Olivier, Edmond, Jean /OUICE/
+1 NAME Olivier Edmond Jean /OUICE/
 2 TYPE birth
 2 GIVN Olivier, Edmond, Jean
 2 SURN OUICE
@@ -7600,7 +7606,7 @@
 2 DATE 10 NOV 2022
 3 TIME 15:36:27
 0 @I1000097@ INDI
-1 NAME Florence, Michèle, Be /LAGRANGE/
+1 NAME Florence Michèle Be /LAGRANGE/
 2 TYPE birth
 2 GIVN Florence, Michèle, Be
 2 SURN LAGRANGE
@@ -7614,7 +7620,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000098@ INDI
-1 NAME Philippe, Georges, An /CHOMIS/
+1 NAME Philippe Georges An /CHOMIS/
 2 TYPE birth
 2 GIVN Philippe, Georges, An
 2 SURN CHOMIS
@@ -7640,7 +7646,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000100@ INDI
-1 NAME Nathalie, Andrée, Ren /LAGRANGE/
+1 NAME Nathalie Andrée Ren /LAGRANGE/
 2 TYPE birth
 2 GIVN Nathalie, Andrée, Ren
 2 SURN LAGRANGE
@@ -7741,7 +7747,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000107@ INDI
-1 NAME Jean, Louis /SUBRA/
+1 NAME Jean Louis /SUBRA/
 2 TYPE birth
 2 GIVN Jean, Louis
 2 SURN SUBRA
@@ -7853,7 +7859,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000115@ INDI
-1 NAME François, Honoré /BRIEE/
+1 NAME François Honoré /BRIEE/
 2 TYPE birth
 2 GIVN François, Honoré
 2 SURN BRIEE
@@ -7885,7 +7891,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000117@ INDI
-1 NAME Emile, Bernard /SUBRA/
+1 NAME Emile Bernard /SUBRA/
 2 TYPE birth
 2 GIVN Emile, Bernard
 2 SURN SUBRA
@@ -7901,7 +7907,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000118@ INDI
-1 NAME Eliane, Madeleine /DERVIEUX/
+1 NAME Eliane Madeleine /DERVIEUX/
 2 TYPE birth
 2 GIVN Eliane, Madeleine
 2 SURN DERVIEUX
@@ -7947,7 +7953,7 @@
 2 DATE 10 NOV 2022
 3 TIME 08:37:17
 0 @I1000121@ INDI
-1 NAME Monique, Marie /DHAINAUT/
+1 NAME Monique Marie /DHAINAUT/
 2 TYPE birth
 2 GIVN Monique, Marie
 2 SURN DHAINAUT
@@ -7962,7 +7968,7 @@
 2 DATE 8 NOV 2022
 3 TIME 10:27:58
 0 @I1000122@ INDI
-1 NAME Jeanne, Marie, Rose /SUBRA/
+1 NAME Jeanne Marie Rose /SUBRA/
 2 TYPE birth
 2 GIVN Jeanne, Marie, Rose
 2 SURN SUBRA
@@ -7977,7 +7983,7 @@
 2 DATE 10 NOV 2022
 3 TIME 08:37:26
 0 @I1000123@ INDI
-1 NAME André, Joseph /LAGRANGE/
+1 NAME André Joseph /LAGRANGE/
 2 TYPE birth
 2 GIVN André, Joseph
 2 SURN LAGRANGE
@@ -7993,7 +7999,7 @@
 2 DATE 4 NOV 2022
 3 TIME 23:00:00
 0 @I1000124@ INDI
-1 NAME Jean, François, René /LAGRANGE/
+1 NAME Jean François René /LAGRANGE/
 2 TYPE birth
 2 GIVN Jean, François, René
 2 SURN LAGRANGE
@@ -8580,7 +8586,7 @@
 2 TYPE birth
 2 GIVN Patricia
 2 SURN CRESSOT
-1 NAME  /Unknown/
+1 NAME /Unknown/
 2 TYPE Unknown
 2 SURN Unknown
 1 SEX F
@@ -9220,7 +9226,7 @@
 2 DATE 7 NOV 2022
 3 TIME 09:18:00
 0 @I10100087@ INDI
-1 NAME Louis, Isidor /CRESSOT/
+1 NAME Louis Isidor /CRESSOT/
 2 TYPE birth
 2 GIVN Louis, Isidor
 2 SURN CRESSOT
@@ -9291,7 +9297,7 @@
 2 DATE 7 NOV 2022
 3 TIME 11:28:21
 0 @I10100094@ INDI
-1 NAME Jean, Baptiste /CRESSOT/
+1 NAME Jean Baptiste /CRESSOT/
 2 TYPE birth
 2 GIVN Jean, Baptiste
 2 SURN CRESSOT
@@ -9308,7 +9314,7 @@
 2 DATE 5 NOV 2022
 3 TIME 23:00:00
 0 @I10100095@ INDI
-1 NAME Marie, Jeanne /CRESSOT/
+1 NAME Marie Jeanne /CRESSOT/
 2 TYPE birth
 2 GIVN Marie, Jeanne
 2 SURN CRESSOT
@@ -9554,7 +9560,7 @@
 2 DATE 5 NOV 2022
 3 TIME 23:00:00
 0 @I10100122@ INDI
-1 NAME Michel, L'Ainé /CRESSOT/
+1 NAME Michel L'Ainé /CRESSOT/
 2 TYPE birth
 2 GIVN Michel, L'Ainé
 2 SURN CRESSOT
@@ -10147,7 +10153,7 @@
 2 DATE 5 NOV 2022
 3 TIME 23:00:00
 0 @I10100174@ INDI
-1 NAME Claude, Louis /CRESSOT/
+1 NAME Claude Louis /CRESSOT/
 2 TYPE birth
 2 GIVN Claude, Louis
 2 SURN CRESSOT
@@ -10224,7 +10230,7 @@
 2 DATE 5 NOV 2022
 3 TIME 23:00:00
 0 @I10100181@ INDI
-1 NAME Claude, Marcel /CRESSOT/
+1 NAME Claude Marcel /CRESSOT/
 2 TYPE birth
 2 GIVN Claude, Marcel
 2 SURN CRESSOT
@@ -10479,7 +10485,7 @@
 2 DATE 5 NOV 2022
 3 TIME 23:00:00
 0 @I10100205@ INDI
-1 NAME Marie, Anne /CRESSOT/
+1 NAME Marie Anne /CRESSOT/
 2 TYPE birth
 2 GIVN Marie, Anne
 2 SURN CRESSOT
@@ -10618,7 +10624,7 @@
 2 DATE 5 NOV 2022
 3 TIME 23:00:00
 0 @I10100217@ INDI
-1 NAME Marie, Reine /CRESSOT/
+1 NAME Marie Reine /CRESSOT/
 2 TYPE birth
 2 GIVN Marie, Reine
 2 SURN CRESSOT
@@ -10700,7 +10706,7 @@
 2 DATE 10 NOV 2022
 3 TIME 08:34:14
 0 @I10100224@ INDI
-1 NAME Suzanne, Catherine /CRESSOT/
+1 NAME Suzanne Catherine /CRESSOT/
 2 TYPE birth
 2 GIVN Suzanne, Catherine
 2 SURN CRESSOT
@@ -11138,7 +11144,7 @@
 2 DATE 5 NOV 2022
 3 TIME 23:00:00
 0 @I10100259@ INDI
-1 NAME Jean, Le, Jeune /LACORDAIRE/
+1 NAME Jean Le Jeune /LACORDAIRE/
 2 TYPE birth
 2 GIVN Jean, Le, Jeune
 2 SURN LACORDAIRE
@@ -11233,7 +11239,7 @@
 2 DATE 5 NOV 2022
 3 TIME 23:00:00
 0 @I10100268@ INDI
-1 NAME Michel, Le, Jeune /CRESSOT/
+1 NAME Michel Le Jeune /CRESSOT/
 2 TYPE birth
 2 GIVN Michel, Le, Jeune
 2 SURN CRESSOT
@@ -11491,7 +11497,7 @@
 2 DATE 10 NOV 2022
 3 TIME 08:35:50
 0 @I10100288@ INDI
-1 NAME Marie, Anne /CRESSOT/
+1 NAME Marie Anne /CRESSOT/
 2 TYPE birth
 2 GIVN Marie, Anne
 2 SURN CRESSOT
@@ -11510,7 +11516,7 @@
 2 DATE 10 NOV 2022
 3 TIME 08:35:56
 0 @I10100290@ INDI
-1 NAME François, Nicolas /CHEVALIER/
+1 NAME François Nicolas /CHEVALIER/
 2 TYPE birth
 2 GIVN François, Nicolas
 2 SURN CHEVALIER
@@ -11553,7 +11559,7 @@
 2 DATE 10 NOV 2022
 3 TIME 08:36:08
 0 @I10100294@ INDI
-1 NAME Anne, Julienne /GUERITE/
+1 NAME Anne Julienne /GUERITE/
 2 TYPE birth
 2 GIVN Anne, Julienne
 2 SURN GUERITE
@@ -11769,7 +11775,7 @@
 2 DATE 5 NOV 2022
 3 TIME 23:00:00
 0 @I10100313@ INDI
-1 NAME Nicolas, L'Ainé /HENRY/
+1 NAME Nicolas L'Ainé /HENRY/
 2 TYPE birth
 2 GIVN Nicolas, L'Ainé
 2 SURN HENRY
@@ -14815,305 +14821,228 @@
 1 CONT en 1876- 7 Place Pinet à Paris(13ème)
 1 CONT en 1880- 138 Boulevard de la gare à Paris(13ème)
 0 @N0008@ NOTE Reconnue le 20/06/1927 par sa mÃ¨re
-0 @N0009@ NOTE Les objets référencés par cette note étaient manquants dans le fich
-1 CONC ier importé à la date du 06/11/2022 12:45:05.
-0 @N0010@ NOTE Les objets référencés par cette note ont été référencés mais sont a
-1 CONC bsents, c'est pourquoi ils ont été créés quand vous avez utilisé la véri
-1 CONC fication et la réparation de l'arbre à la date du 06/11/2022 19:27:22.
-0 @N0012@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O0010:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Loic.jpeg        Lin
-1 CONC e 14283: 1 FILE ./photos/Loic.jpeg
-1 CONT 
-0 @N0013@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O0028:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Isidore.jpeg     Lin
-1 CONC e 14409: 1 FILE ./photos/Isidore.jpeg
-1 CONT 
-0 @N0014@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O0029:
-1 CONT 
-1 CONT Impossible d'importer ./photos/AlphonseAlfred   Lin
-1 CONC e 14416: 1 FILE ./photos/AlphonseAlfred.jpeg
-1 CONT 
-0 @N0015@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O0030:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Francois.jpeg    Lin
-1 CONC e 14423: 1 FILE ./photos/Francois.jpeg
-1 CONT 
-0 @N0016@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O0031:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Raymond.jpeg     Lin
-1 CONC e 14430: 1 FILE ./photos/Raymond.jpeg
-1 CONT 
-0 @N0017@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O0034:
-1 CONT 
-1 CONT Impossible d'importer ./photos/CatherinePopol   Lin
-1 CONC e 14451: 1 FILE ./photos/CatherinePopolani.JPEG
-1 CONT 
-0 @N0018@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O0035:
-1 CONT 
-1 CONT Impossible d'importer ./photos/NehmeArouani.J   Lin
-1 CONC e 14458: 1 FILE ./photos/NehmeArouani.JPEG
-1 CONT 
-0 @N0019@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O0054:
-1 CONT 
-1 CONT Impossible d'importer C:/Users/fors/Documents/Applis/ancestris_ge   Lin
-1 CONC e 14591: 1 FILE ./photos/Maiette.jpeg
-1 CONT 
-0 @N0020@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000004:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Louis.jpeg       Lin
-1 CONC e 14605: 1 FILE ./photos/Louis.jpeg
-1 CONT 
-0 @N0021@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000005:
-1 CONT 
-1 CONT Impossible d'importer photos\Wadad.jpeg       Lin
-1 CONC e 14612: 1 FILE photos\Wadad.jpeg
-1 CONT 
-0 @N0022@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000007:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Coralie.JPEG     Lin
-1 CONC e 14619: 1 FILE ./photos/Coralie.JPEG
-1 CONT 
-0 @N0023@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000009:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Lucie.JPEG       Lin
-1 CONC e 14633: 1 FILE ./photos/Lucie.JPEG
-1 CONT 
-0 @N0024@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000011:
-1 CONT 
-1 CONT Impossible d'importer ./photos/louis isidore    Lin
-1 CONC e 14647: 1 FILE ./photos/louis isidore cressot.JPEG
-1 CONT 
-0 @N0025@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000012:
-1 CONT 
-1 CONT Impossible d'importer ./photos/JeanPierre.jpe   Lin
-1 CONC e 14654: 1 FILE ./photos/JeanPierre.jpeg
-1 CONT 
-0 @N0026@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000013:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Aurelien.jpeg    Lin
-1 CONC e 14661: 1 FILE ./photos/Aurelien.jpeg
-1 CONT 
-0 @N0027@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000014:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Guillaume.jpeg   Lin
-1 CONC e 14668: 1 FILE ./photos/Guillaume.jpeg
-1 CONT 
-0 @N0028@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000015:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Yves.jpeg        Lin
-1 CONC e 14675: 1 FILE ./photos/Yves.jpeg
-1 CONT 
-0 @N0029@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000016:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Marine.jpeg      Lin
-1 CONC e 14682: 1 FILE ./photos/Marine.jpeg
-1 CONT 
-0 @N0030@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000017:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Clovis.jpeg      Lin
-1 CONC e 14689: 1 FILE ./photos/Clovis.jpeg
-1 CONT 
-0 @N0031@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000018:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Roland.jpeg      Lin
-1 CONC e 14696: 1 FILE ./photos/Roland.jpeg
-1 CONT 
-0 @N0032@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000019:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Guy.jpeg         Lin
-1 CONC e 14703: 1 FILE ./photos/Guy.jpeg
-1 CONT 
-0 @N0033@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000020:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Stephanie.jpeg   Lin
-1 CONC e 14710: 1 FILE ./photos/Stephanie.jpeg
-1 CONT 
-0 @N0034@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000021:
-1 CONT 
-1 CONT Impossible d'importer ./photos/AnneMarie.jpeg   Lin
-1 CONC e 14717: 1 FILE ./photos/AnneMarie.jpeg
-1 CONT 
-0 @N0035@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000022:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Gabrielle.jpeg   Lin
-1 CONC e 14724: 1 FILE ./photos/Gabrielle.jpeg
-1 CONT 
-0 @N0036@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000023:
-1 CONT 
-1 CONT Impossible d'importer ./photos/VeroniqueBecha   Lin
-1 CONC e 14731: 1 FILE ./photos/VeroniqueBechara.jpeg
-1 CONT 
-0 @N0037@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000024:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Aida.jpeg        Lin
-1 CONC e 14738: 1 FILE ./photos/Aida.jpeg
-1 CONT 
-0 @N0038@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000025:
-1 CONT 
-1 CONT Impossible d'importer ./photos/JeanFrancois.j   Lin
-1 CONC e 14745: 1 FILE ./photos/JeanFrancois.jpeg
-1 CONT 
-0 @N0039@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000026:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Nicolas.jpeg     Lin
-1 CONC e 14752: 1 FILE ./photos/Nicolas.jpeg
-1 CONT 
-0 @N0040@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000027:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Raphaelle.jpeg   Lin
-1 CONC e 14759: 1 FILE ./photos/Raphaelle.jpeg
-1 CONT 
-0 @N0041@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000028:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Geraldine.jpeg   Lin
-1 CONC e 14766: 1 FILE ./photos/Geraldine.jpeg
-1 CONT 
-0 @N0042@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000029:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Damien.jpeg      Lin
-1 CONC e 14773: 1 FILE ./photos/Damien.jpeg
-1 CONT 
-0 @N0043@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000030:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Loic.jpeg        Lin
-1 CONC e 14780: 1 FILE ./photos/Loic.jpeg
-1 CONT 
-0 @N0044@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000031:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Beatrice.jpeg    Lin
-1 CONC e 14787: 1 FILE ./photos/Beatrice.jpeg
-1 CONT 
-0 @N0045@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000032:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Thomas.jpeg      Lin
-1 CONC e 14794: 1 FILE ./photos/Thomas.jpeg
-1 CONT 
-0 @N0046@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000033:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Caroline.jpeg    Lin
-1 CONC e 14801: 1 FILE ./photos/Caroline.jpeg
-1 CONT 
-0 @N0047@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000034:
-1 CONT 
-1 CONT Impossible d'importer ./photos/Sophie.jpeg      Lin
-1 CONC e 14808: 1 FILE ./photos/Sophie.jpeg
-1 CONT 
-0 @N0048@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps I
-1 CONC D O1000035:
-1 CONT 
-1 CONT Impossible d'importer ./photos/MarieLine.jpeg   Lin
-1 CONC e 14815: 1 FILE ./photos/MarieLine.jpeg
-1 CONT 
+0 @N0009@ NOTE Les objets référencés par cette note étaient manquants dans le fichier importé à la date du 06/11/2022 12:45:05.
+0 @N0010@ NOTE Les objets référencés par cette note ont été référencés mais sont absents, c'est pourquoi ils ont été créés quand vous avez utilisé la vérification et la réparation de l'arbre à la date du 06/11/2022 19:27:22.
+0 @N0012@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O0010:
+1 CONT
+1 CONT Impossible d'importer ./photos/Loic.jpeg        Line 14283: 1 FILE ./photos/Loic.jpeg
+1 CONT
+0 @N0013@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O0028:
+1 CONT
+1 CONT Impossible d'importer ./photos/Isidore.jpeg     Line 14409: 1 FILE ./photos/Isidore.jpeg
+1 CONT
+0 @N0014@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O0029:
+1 CONT
+1 CONT Impossible d'importer ./photos/AlphonseAlfred   Line 14416: 1 FILE ./photos/AlphonseAlfred.jpeg
+1 CONT
+0 @N0015@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O0030:
+1 CONT
+1 CONT Impossible d'importer ./photos/Francois.jpeg    Line 14423: 1 FILE ./photos/Francois.jpeg
+1 CONT
+0 @N0016@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O0031:
+1 CONT
+1 CONT Impossible d'importer ./photos/Raymond.jpeg     Line 14430: 1 FILE ./photos/Raymond.jpeg
+1 CONT
+0 @N0017@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O0034:
+1 CONT
+1 CONT Impossible d'importer ./photos/CatherinePopol   Line 14451: 1 FILE ./photos/CatherinePopolani.JPEG
+1 CONT
+0 @N0018@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O0035:
+1 CONT
+1 CONT Impossible d'importer ./photos/NehmeArouani.J   Line 14458: 1 FILE ./photos/NehmeArouani.JPEG
+1 CONT
+0 @N0019@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O0054:
+1 CONT
+1 CONT Impossible d'importer C:/Users/fors/Documents/Applis/ancestris_ge   Line 14591: 1 FILE ./photos/Maiette.jpeg
+1 CONT
+0 @N0020@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000004:
+1 CONT
+1 CONT Impossible d'importer ./photos/Louis.jpeg       Line 14605: 1 FILE ./photos/Louis.jpeg
+1 CONT
+0 @N0021@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000005:
+1 CONT
+1 CONT Impossible d'importer photos\Wadad.jpeg       Line 14612: 1 FILE photos\Wadad.jpeg
+1 CONT
+0 @N0022@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000007:
+1 CONT
+1 CONT Impossible d'importer ./photos/Coralie.JPEG     Line 14619: 1 FILE ./photos/Coralie.JPEG
+1 CONT
+0 @N0023@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000009:
+1 CONT
+1 CONT Impossible d'importer ./photos/Lucie.JPEG       Line 14633: 1 FILE ./photos/Lucie.JPEG
+1 CONT
+0 @N0024@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000011:
+1 CONT
+1 CONT Impossible d'importer ./photos/louis isidore    Line 14647: 1 FILE ./photos/louis isidore cressot.JPEG
+1 CONT
+0 @N0025@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000012:
+1 CONT
+1 CONT Impossible d'importer ./photos/JeanPierre.jpe   Line 14654: 1 FILE ./photos/JeanPierre.jpeg
+1 CONT
+0 @N0026@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000013:
+1 CONT
+1 CONT Impossible d'importer ./photos/Aurelien.jpeg    Line 14661: 1 FILE ./photos/Aurelien.jpeg
+1 CONT
+0 @N0027@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000014:
+1 CONT
+1 CONT Impossible d'importer ./photos/Guillaume.jpeg   Line 14668: 1 FILE ./photos/Guillaume.jpeg
+1 CONT
+0 @N0028@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000015:
+1 CONT
+1 CONT Impossible d'importer ./photos/Yves.jpeg        Line 14675: 1 FILE ./photos/Yves.jpeg
+1 CONT
+0 @N0029@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000016:
+1 CONT
+1 CONT Impossible d'importer ./photos/Marine.jpeg      Line 14682: 1 FILE ./photos/Marine.jpeg
+1 CONT
+0 @N0030@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000017:
+1 CONT
+1 CONT Impossible d'importer ./photos/Clovis.jpeg      Line 14689: 1 FILE ./photos/Clovis.jpeg
+1 CONT
+0 @N0031@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000018:
+1 CONT
+1 CONT Impossible d'importer ./photos/Roland.jpeg      Line 14696: 1 FILE ./photos/Roland.jpeg
+1 CONT
+0 @N0032@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000019:
+1 CONT
+1 CONT Impossible d'importer ./photos/Guy.jpeg         Line 14703: 1 FILE ./photos/Guy.jpeg
+1 CONT
+0 @N0033@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000020:
+1 CONT
+1 CONT Impossible d'importer ./photos/Stephanie.jpeg   Line 14710: 1 FILE ./photos/Stephanie.jpeg
+1 CONT
+0 @N0034@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000021:
+1 CONT
+1 CONT Impossible d'importer ./photos/AnneMarie.jpeg   Line 14717: 1 FILE ./photos/AnneMarie.jpeg
+1 CONT
+0 @N0035@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000022:
+1 CONT
+1 CONT Impossible d'importer ./photos/Gabrielle.jpeg   Line 14724: 1 FILE ./photos/Gabrielle.jpeg
+1 CONT
+0 @N0036@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000023:
+1 CONT
+1 CONT Impossible d'importer ./photos/VeroniqueBecha   Line 14731: 1 FILE ./photos/VeroniqueBechara.jpeg
+1 CONT
+0 @N0037@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000024:
+1 CONT
+1 CONT Impossible d'importer ./photos/Aida.jpeg        Line 14738: 1 FILE ./photos/Aida.jpeg
+1 CONT
+0 @N0038@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000025:
+1 CONT
+1 CONT Impossible d'importer ./photos/JeanFrancois.j   Line 14745: 1 FILE ./photos/JeanFrancois.jpeg
+1 CONT
+0 @N0039@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000026:
+1 CONT
+1 CONT Impossible d'importer ./photos/Nicolas.jpeg     Line 14752: 1 FILE ./photos/Nicolas.jpeg
+1 CONT
+0 @N0040@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000027:
+1 CONT
+1 CONT Impossible d'importer ./photos/Raphaelle.jpeg   Line 14759: 1 FILE ./photos/Raphaelle.jpeg
+1 CONT
+0 @N0041@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000028:
+1 CONT
+1 CONT Impossible d'importer ./photos/Geraldine.jpeg   Line 14766: 1 FILE ./photos/Geraldine.jpeg
+1 CONT
+0 @N0042@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000029:
+1 CONT
+1 CONT Impossible d'importer ./photos/Damien.jpeg      Line 14773: 1 FILE ./photos/Damien.jpeg
+1 CONT
+0 @N0043@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000030:
+1 CONT
+1 CONT Impossible d'importer ./photos/Loic.jpeg        Line 14780: 1 FILE ./photos/Loic.jpeg
+1 CONT
+0 @N0044@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000031:
+1 CONT
+1 CONT Impossible d'importer ./photos/Beatrice.jpeg    Line 14787: 1 FILE ./photos/Beatrice.jpeg
+1 CONT
+0 @N0045@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000032:
+1 CONT
+1 CONT Impossible d'importer ./photos/Thomas.jpeg      Line 14794: 1 FILE ./photos/Thomas.jpeg
+1 CONT
+0 @N0046@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000033:
+1 CONT
+1 CONT Impossible d'importer ./photos/Caroline.jpeg    Line 14801: 1 FILE ./photos/Caroline.jpeg
+1 CONT
+0 @N0047@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000034:
+1 CONT
+1 CONT Impossible d'importer ./photos/Sophie.jpeg      Line 14808: 1 FILE ./photos/Sophie.jpeg
+1 CONT
+0 @N0048@ NOTE Enregistrements non importés dans OBJE (objet multimédia) Gramps ID O1000035:
+1 CONT
+1 CONT Impossible d'importer ./photos/MarieLine.jpeg   Line 14815: 1 FILE ./photos/MarieLine.jpeg
+1 CONT
 0 @O0000@ OBJE
-1 FILE /photos/Coralie.jpeg
+1 FILE ./photos/Coralie.jpeg
 2 FORM jpeg
 2 TITL Coralie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0001@ OBJE
-1 FILE /photos/Louis.jpeg
+1 FILE ./photos/Louis.jpeg
 2 FORM jpeg
 2 TITL Louis
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0002@ OBJE
-1 FILE .\photos\louis isidore cressot.JPEG
+1 FILE ./photos/louis isidore cressot.JPEG
 2 FORM JPEG
 2 TITL louis isidore cressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0003@ OBJE
-1 FILE photos\Wadad.jpeg
+1 FILE photos/Wadad.jpeg
 2 FORM jpeg
 2 TITL Wadad
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0004@ OBJE
-1 FILE photos\Nicolas.jpeg
+1 FILE photos/Nicolas.jpeg
 2 FORM jpeg
 2 TITL Nicolas
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0005@ OBJE
-1 FILE photos\Raphaelle.jpeg
+1 FILE photos/Raphaelle.jpeg
 2 FORM jpeg
 2 TITL Raphaelle
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0006@ OBJE
-1 FILE photos\Geraldine.jpeg
+1 FILE photos/Geraldine.jpeg
 2 FORM jpeg
 2 TITL Geraldine
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0007@ OBJE
-1 FILE photos\JeanFrancois.jpeg
+1 FILE photos/JeanFrancois.jpeg
 2 FORM jpeg
 2 TITL JeanFrancois
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0008@ OBJE
-1 FILE photos\Beatrice.jpeg
+1 FILE photos/Beatrice.jpeg
 2 FORM jpeg
 2 TITL Beatrice
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0009@ OBJE
-1 FILE photos\Damien.jpeg
+1 FILE photos/Damien.jpeg
 2 FORM jpeg
 2 TITL Damien
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0010@ OBJE
-1 FILE \Users\Alain\Downloads\TMP\Loic.jpeg
+1 FILE /Users/Alain/Downloads/TMP/Loic.jpeg
 2 FORM jpeg
 2 TITL Loic
 1 NOTE @N0012@
@@ -15121,126 +15050,126 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0011@ OBJE
-1 FILE photos\Loic.jpeg
+1 FILE photos/Loic.jpeg
 2 FORM jpeg
 2 TITL Loic
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0012@ OBJE
-1 FILE photos\Clovis.jpeg
+1 FILE photos/Clovis.jpeg
 2 FORM jpeg
 2 TITL Clovis
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0013@ OBJE
-1 FILE photos\Aida.jpeg
+1 FILE photos/Aida.jpeg
 2 FORM jpeg
 2 TITL Aida
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0014@ OBJE
-1 FILE photos\Guy.jpeg
+1 FILE photos/Guy.jpeg
 2 FORM jpeg
 2 TITL Guy
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0015@ OBJE
-1 FILE photos\Roland.jpeg
+1 FILE photos/Roland.jpeg
 2 FORM jpeg
 2 TITL Roland
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0016@ OBJE
-1 FILE photos\Thomas.jpeg
+1 FILE photos/Thomas.jpeg
 2 FORM jpeg
 2 TITL Thomas
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0017@ OBJE
-1 FILE photos\MarieLine.jpeg
+1 FILE photos/MarieLine.jpeg
 2 FORM jpeg
 2 TITL MarieLine
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0018@ OBJE
-1 FILE photos\Caroline.jpeg
+1 FILE photos/Caroline.jpeg
 2 FORM jpeg
 2 TITL Caroline
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0019@ OBJE
-1 FILE photos\Sophie.jpeg
+1 FILE photos/Sophie.jpeg
 2 FORM jpeg
 2 TITL Sophie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0020@ OBJE
-1 FILE photos\SandrinePhilibert.jpeg
+1 FILE photos/SandrinePhilibert.jpeg
 2 FORM jpeg
 2 TITL SandrinePhilibert
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0021@ OBJE
-1 FILE photos\Yves.jpeg
+1 FILE photos/Yves.jpeg
 2 FORM jpeg
 2 TITL Yves
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0022@ OBJE
-1 FILE photos\JeanPierre.jpeg
+1 FILE photos/JeanPierre.jpeg
 2 FORM jpeg
 2 TITL JeanPierre
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0023@ OBJE
-1 FILE photos\Aurelien.jpeg
+1 FILE photos/Aurelien.jpeg
 2 FORM jpeg
 2 TITL Aurelien
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0024@ OBJE
-1 FILE photos\Guillaume.jpeg
+1 FILE photos/Guillaume.jpeg
 2 FORM jpeg
 2 TITL Guillaume
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0025@ OBJE
-1 FILE photos\Marine.jpeg
+1 FILE photos/Marine.jpeg
 2 FORM jpeg
 2 TITL Marine
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0026@ OBJE
-1 FILE photos\JeanCressot.jpeg
+1 FILE photos/JeanCressot.jpeg
 2 FORM jpeg
 2 TITL JeanCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0027@ OBJE
-1 FILE photos\Euphrosine.jpeg
+1 FILE photos/Euphrosine.jpeg
 2 FORM jpeg
 2 TITL Euphrosine
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0028@ OBJE
-1 FILE \Users\Alain\Downloads\TMP\Isidore.jpeg
+1 FILE /Users/Alain/Downloads/TMP/Isidore.jpeg
 2 FORM jpeg
 2 TITL Isidore
 1 NOTE @N0013@
@@ -15248,7 +15177,7 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0029@ OBJE
-1 FILE \Users\Alain\Downloads\TMP\AlphonseAlfred.jpeg
+1 FILE /Users/Alain/Downloads/TMP/AlphonseAlfred.jpeg
 2 FORM jpeg
 2 TITL AlphonseAlfred
 1 NOTE @N0014@
@@ -15256,7 +15185,7 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0030@ OBJE
-1 FILE \Users\Alain\Downloads\TMP\Francois.jpeg
+1 FILE /Users/Alain/Downloads/TMP/Francois.jpeg
 2 FORM jpeg
 2 TITL Francois
 1 NOTE @N0015@
@@ -15264,7 +15193,7 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0031@ OBJE
-1 FILE \Users\Alain\Downloads\TMP\Raymond.jpeg
+1 FILE /Users/Alain/Downloads/TMP/Raymond.jpeg
 2 FORM jpeg
 2 TITL Raymond
 1 NOTE @N0016@
@@ -15272,21 +15201,21 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0032@ OBJE
-1 FILE photos\Lucie.jpeg
+1 FILE photos/Lucie.jpeg
 2 FORM jpeg
 2 TITL Lucie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0033@ OBJE
-1 FILE photos\Celesta.JPEG
+1 FILE photos/Celesta.JPEG
 2 FORM JPEG
 2 TITL Celesta
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0034@ OBJE
-1 FILE \Users\Alain\Downloads\TMP\CatherinePopolani.JPEG
+1 FILE /Users/Alain/Downloads/TMP/CatherinePopolani.JPEG
 2 FORM JPEG
 2 TITL CatherinePopolani
 1 NOTE @N0017@
@@ -15294,7 +15223,7 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0035@ OBJE
-1 FILE \Users\Alain\Downloads\TMP\NehmeArouani.JPEG
+1 FILE /Users/Alain/Downloads/TMP/NehmeArouani.JPEG
 2 FORM JPEG
 2 TITL NehmeArouani
 1 NOTE @N0018@
@@ -15302,133 +15231,133 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0036@ OBJE
-1 FILE photos\BecharaSaade.JPEG
+1 FILE photos/BecharaSaade.JPEG
 2 FORM JPEG
 2 TITL BecharaSaade
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0037@ OBJE
-1 FILE photos\Virginie.JPEG
+1 FILE photos/Virginie.JPEG
 2 FORM JPEG
 2 TITL Virginie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0038@ OBJE
-1 FILE photos\JeanLagrange.JPG
+1 FILE photos/JeanLagrange.JPG
 2 FORM JPG
 2 TITL JeanLagrange
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0039@ OBJE
-1 FILE photos\MoniqueLagrange.JPG
+1 FILE photos/MoniqueLagrange.JPG
 2 FORM JPG
 2 TITL MoniqueLagrange
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0040@ OBJE
-1 FILE photos\JoyCressot.jpeg
+1 FILE photos/JoyCressot.jpeg
 2 FORM jpeg
 2 TITL JoyCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0041@ OBJE
-1 FILE photos\EmmaMorkos.jpeg
+1 FILE photos/EmmaMorkos.jpeg
 2 FORM jpeg
 2 TITL EmmaMorkos
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0042@ OBJE
-1 FILE photos\EricCressot.jpeg
+1 FILE photos/EricCressot.jpeg
 2 FORM jpeg
 2 TITL EricCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0043@ OBJE
-1 FILE photos\VeroniqueBechara.jpeg
+1 FILE photos/VeroniqueBechara.jpeg
 2 FORM jpeg
 2 TITL VeroniqueBechara
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0044@ OBJE
-1 FILE photos\Gabrielle.jpeg
+1 FILE photos/Gabrielle.jpeg
 2 FORM jpeg
 2 TITL Gabrielle
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0045@ OBJE
-1 FILE photos\AnneMarie.jpeg
+1 FILE photos/AnneMarie.jpeg
 2 FORM jpeg
 2 TITL AnneMarie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0046@ OBJE
-1 FILE photos\Stephanie.jpeg
+1 FILE photos/Stephanie.jpeg
 2 FORM jpeg
 2 TITL Stephanie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0047@ OBJE
-1 FILE photos\JoCressot.jpeg
+1 FILE photos/JoCressot.jpeg
 2 FORM jpeg
 2 TITL JoCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0048@ OBJE
-1 FILE photos\YolaCressot.jpeg
+1 FILE photos/YolaCressot.jpeg
 2 FORM jpeg
 2 TITL YolaCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0049@ OBJE
-1 FILE photos\MurielCressot.jpeg
+1 FILE photos/MurielCressot.jpeg
 2 FORM jpeg
 2 TITL MurielCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0050@ OBJE
-1 FILE photos\ClaudeCressot.jpeg
+1 FILE photos/ClaudeCressot.jpeg
 2 FORM jpeg
 2 TITL ClaudeCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0051@ OBJE
-1 FILE photos\MoniqueChehade.jpeg
+1 FILE photos/MoniqueChehade.jpeg
 2 FORM jpeg
 2 TITL MoniqueChehade
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0052@ OBJE
-1 FILE photos\PatriciaCressot.jpeg
+1 FILE photos/PatriciaCressot.jpeg
 2 FORM jpeg
 2 TITL PatriciaCressot
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0053@ OBJE
-1 FILE photos\Paul.jpeg
+1 FILE photos/Paul.jpeg
 2 FORM jpeg
 2 TITL Paul
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0054@ OBJE
-1 FILE \Users\fors\Documents\Applis\ancestris_genealogie\Donnees\Photos\Maiette.jpeg
+1 FILE /Users/fors/Documents/Applis/ancestris_genealogie/Donnees/Photos/Maiette.jpeg
 2 FORM jpeg
 2 TITL Maiette
 1 NOTE @N0019@
@@ -15436,35 +15365,35 @@
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0055@ OBJE
-1 FILE photos\Olivia.jpeg
+1 FILE photos/Olivia.jpeg
 2 FORM jpeg
 2 TITL Olivia
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O0056@ OBJE
-1 FILE photos\Zoe CRESSOT.jpeg
+1 FILE photos/Zoe CRESSOT.jpeg
 2 FORM jpeg
 2 TITL Zoe CRESSOT
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:02:10
 0 @O1000001@ OBJE
-1 FILE photos\Alain.jpeg
+1 FILE photos/Alain.jpeg
 2 FORM jpeg
 2 TITL C:/Users/Alain/Pictures/IMG_3088.jpeg
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O1000008@ OBJE
-1 FILE photos\Cecile.JPEG
+1 FILE photos/Cecile.JPEG
 2 FORM JPEG
 2 TITL ./photos/Cecile.JPEG
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O1000010@ OBJE
-1 FILE photos\Veronique.JPEG
+1 FILE photos/Veronique.JPEG
 2 FORM JPEG
 2 TITL ./photos/Veronique.JPEG
 1 CHAN

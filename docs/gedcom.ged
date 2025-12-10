@@ -15043,14 +15043,14 @@
 1 CONC e 14815: 1 FILE ./photos/MarieLine.jpeg
 1 CONT 
 0 @O0000@ OBJE
-1 FILE .\photos\Coralie.jpeg
+1 FILE /photos/Coralie.jpeg
 2 FORM jpeg
 2 TITL Coralie
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0001@ OBJE
-1 FILE .\photos\Louis.jpeg
+1 FILE /photos/Louis.jpeg
 2 FORM jpeg
 2 TITL Louis
 1 CHAN
