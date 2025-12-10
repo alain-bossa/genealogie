@@ -15050,14 +15050,14 @@
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0001@ OBJE
-1 FILE /genealogie/photos/Louis.jpeg
+1 FILE https://alain-bossa.github.io/genealogie/photos/Louis.jpeg
 2 FORM jpeg
 2 TITL Louis
 1 CHAN
 2 DATE 14 SEP 2025
 3 TIME 15:06:47
 0 @O0002@ OBJE
-1 FILE .\photos\louis isidore cressot.JPEG
+1 FILE https://alain-bossa.github.io/genealogie/docs/photos/louis isidore cressot.JPEG
 2 FORM JPEG
 2 TITL louis isidore cressot
 1 CHAN
